@@ -10,7 +10,7 @@ Dataset Link: _https://www.kaggle.com/datasets/cashutosh/gender-classification-d
 
 **TRAINED MODEL LINK:** _[https://drive.google.com/drive/folders/1xm5oE3QRjnM8vLn-m9K9Le1mBMJCafDY?usp=sharing](https://drive.google.com/file/d/1z919uBGy7Ae070oM7Q8lNE2jcBj4GRJu/view?usp=sharing)_ 
 
-**TFLITE MODEL LINK** _ https://drive.google.com/file/d/14qh6hnyXPmEcj2Yjb83n-K83mhvk87sb/view?usp=sharing_
+**TFLITE MODEL LINK** _https://drive.google.com/file/d/14qh6hnyXPmEcj2Yjb83n-K83mhvk87sb/view?usp=sharing_
 
 #### **NOTE: Kindly unzip the above trained model and use it directly(gender_detection.model)...**
 
