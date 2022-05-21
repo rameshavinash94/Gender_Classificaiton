@@ -66,5 +66,9 @@ Dataset Link: _https://www.kaggle.com/datasets/cashutosh/gender-classification-d
      ```
      prediction = predict(preprocessed_image)
      ```
+8) Finally Print the Result
+    ```
+    print(prediction) # return either Male or Female
+    ```
  
  #### **NOTE: If we you want to use this model in web, use the Tflite model.**
