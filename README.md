@@ -14,6 +14,16 @@ Dataset Link: _https://www.kaggle.com/datasets/cashutosh/gender-classification-d
 
 #### **NOTE: Kindly unzip the above trained model and use it directly(gender_detection.model)...**
 
+**RESULTS:**
+
+![](https://raw.githubusercontent.com/rameshavinash94/Gender_Classificaiton/main/Screen%20Shot%202022-05-20%20at%207.15.35%20PM.png)
+
+**TESTING SNIPPET**
+
+<img width="307" alt="Screen Shot 2022-05-20 at 7 20 12 PM" src="https://user-images.githubusercontent.com/87649563/169630700-89480d25-1c61-4f01-8007-c06d77592b34.png">
+
+<img width="122" alt="Screen Shot 2022-05-20 at 7 20 37 PM" src="https://user-images.githubusercontent.com/87649563/169630708-4a1bcbf8-83f1-4c1c-b361-00f0a551ef6e.png">
+
 **STEPS TO FOLLOW:**
 1) INSTALL THE LIBRARIES MENTIONED IN THE REQUIREMENTS FILE
    ```
