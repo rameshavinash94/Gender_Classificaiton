@@ -8,6 +8,9 @@
 
 Dataset Link: _https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset_ 
 
+**TRAINED MODEL LINK:** _[https://drive.google.com/drive/folders/1xm5oE3QRjnM8vLn-m9K9Le1mBMJCafDY?usp=sharing](https://drive.google.com/file/d/1z919uBGy7Ae070oM7Q8lNE2jcBj4GRJu/view?usp=sharing)_ 
+
+#### **NOTE: Kindly unzip the above trained model and use it directly(gender_detection.model)...**
 
 **STEPS TO FOLLOW:**
 1) INSTALL THE LIBRARIES MENTIONED IN THE REQUIREMENTS FILE
