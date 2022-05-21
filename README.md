@@ -56,7 +56,7 @@ Dataset Link: _https://www.kaggle.com/datasets/cashutosh/gender-classification-d
 
 5) GET AN FACIAL IMAGE AS INPUT.
     ```
-      input_image = cv2.imread('/content/cr7.png')
+      input_image = cv2.imread('/content/cr7.png') # pass in any image and test
     ```
        
 6) CALL THE PREPROCESSING FUNCTION.
